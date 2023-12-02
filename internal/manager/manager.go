@@ -1,5 +1,0 @@
-package manager
-
-import (
-	"os"
-)
